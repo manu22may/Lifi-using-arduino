@@ -14,7 +14,7 @@ Reciever succesful in getting transmitted data
 Output displayed
 
 ## 
-## The prroject requires 2 circuits.
+## The project requires 2 circuits.
 
 1)transmitter: this contains arduino(Tx) + laser diode.
 
