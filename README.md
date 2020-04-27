@@ -1,7 +1,7 @@
 # Lifi-using-arduino
 Using laser module to send text from sender to receiver
 
-LIGHT TRANSMITTER:
+## LIGHT TRANSMITTER:
 
 Successfully created code to transmit efficiently
 
@@ -13,8 +13,8 @@ Reciever succesful in getting transmitted data
 
 Output displayed
 
-
-The prroject requires 2 circuits.
+## 
+## The prroject requires 2 circuits.
 
 1)transmitter: this contains arduino(Tx) + laser diode.
 
